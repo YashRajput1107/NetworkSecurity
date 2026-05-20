@@ -1,0 +1,3 @@
+[ 2026-05-20 23:37:03,259 ] 41 root - INFO - CSV file converted to JSON records successfully
+[ 2026-05-20 23:37:03,645 ] 61 root - INFO - MongoDB connection established
+[ 2026-05-20 23:37:13,971 ] 72 root - INFO - Records inserted successfully
